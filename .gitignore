@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# generated_tests
+generated_tests/
+
 # Distribution / packaging
 .Python
 build/
